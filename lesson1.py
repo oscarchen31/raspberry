@@ -6,7 +6,7 @@ joinString = ", ".join(marxes);
 print(joinString);
 marxess = joinString.split(", ");
 print(marxess);
-
+print(marxes.insert(0,'asd'))
 
 #sort() sort the list itself
 #sorted() returns a sorted copy
